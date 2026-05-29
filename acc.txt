@@ -1,0 +1,7 @@
+#USER ACCOUNT
+- Username: omg
+- Password: 99999999
+
+#ADMIN ACCOUNT
+- Username: admin
+- Password: 99999999
